@@ -35,7 +35,7 @@ body{
 }
 .mianblock button{
     width: 90%;
-    height: 7vh;
+    height: 6vh;
     border: none;
     outline: none;
     border-radius: 5px;
@@ -43,7 +43,7 @@ body{
     margin: 5px;
     border: 1px solid black;
     position: relative;
-    top: 13px;
+    top: 12px;
 }
 .mianblock form h2{
     position: relative;
