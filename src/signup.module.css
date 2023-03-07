@@ -1,0 +1,61 @@
+*{
+    padding:0px;
+    margin:0px;
+    text-align: center;
+}
+body{
+    background-color: rgb(105, 158, 219);
+}
+.mianblock{
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 120px;
+    margin-left: 450px;
+    margin-right: 20px;
+}
+.mianblock input{
+    width: 90%;
+    height: 6vh;
+    border: none;
+    outline: none;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+    text-align: left;
+    position: relative;
+    top: 10px;
+}
+.mianblock button{
+    width: 90%;
+    height: 90%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+    position: relative;
+    top: 12px;
+}
+.mianblock p{
+    position: relative;
+    top: 18px;
+}
+.mianblock h2{
+    position: relative;
+    top: 10px;
+}
+.mianblock p Link{
+    text-decoration: none;
+}
+.mianblock p Link:hover{
+    text-decoration: underline;
+}
